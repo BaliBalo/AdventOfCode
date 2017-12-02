@@ -8,3 +8,7 @@ Also I'll use JS files in here, but my solutions are meant (unless stated otherw
 - I am using ES6 features (arrow functions etc.)
 - I am using console-specific features (`$` = `document.querySelector` - available at least in Chrome and Firefox)
 - I am grabbing the data directly from the page (`innerText`)
+
+-----
+
+Code to my private leaderboard: `190726-9bd54d97`
