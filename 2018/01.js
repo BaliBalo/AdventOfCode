@@ -1,6 +1,5 @@
 // Part 1
-$('*').innerText.trim().split`
-`.reduce((v,n)=>+v+ +n)
+eval($('*').innerText)
 
 // Part 2
 for(a=$('*').innerText.trim().split`
